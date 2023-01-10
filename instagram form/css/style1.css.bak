@@ -1,0 +1,111 @@
+
+
+body{ margin:0 auto;padding:0 auto;}
+
+
+.header{float:left;width:100%;border-bottom:1px solid #DBDBDB;  background-color: white;
+  position: fixed;}
+.img {
+  float: left;
+  width: 7%;
+  margin-left: 16em;
+  padding-top: 12px;
+}
+.page-center {
+  float: none;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 30%;
+}
+.box {
+  float: left;
+  width: 100%;
+  background-color: white;
+  margin-top: 1em;
+  border: solid 1px #DBDBDB;
+  margin-top: 5em;
+}
+
+.img1 {
+  text-align: center;
+  float: none;
+  width: 26%;
+  margin-left: 9em;
+  margin-top:2em;
+  
+}
+  .box  h5 {
+  text-align: center;
+  font-size: 14px;
+}
+.box p {
+  float: none;
+  width: 90%;
+  text-align: center;
+  padding: 0 1em;
+  font-size: 16px;
+  color: #DBDBDB;
+}
+.mail {
+  float: none;
+  width: 75%;
+  border: 1px solid #DBDBDB;
+  border-radius: 3px;
+  padding: 7px;
+  margin-left: 3em;
+}
+.button {
+  float: none;
+  width: 78%;
+  border-radius: 3px;
+  padding: 7px;
+  margin-left: 3em;
+  background-color: #B2DFFC;
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  border: 1px solid #B2DFFC;
+  margin-top: 1em;
+}
+.box-2 h5 {
+  margin-top: 2em;
+  color: #B7B7B7;
+  font-size: 12px;
+  text-align: center;
+  position: relative;
+  top: 12px;
+  background-color: white;
+  float: none;
+  width: 12%;
+  margin-left: 179px;
+}
+.box-2 hr {
+  float: none;
+  width: 80%;
+  margin-top: -1em;
+  text-align: center;
+  border-bottom: 0px solid black;
+}
+.box-2 p  a{ text-decoration:none;
+color:black;}
+
+.box-3 h5 {
+  float: none;
+  width: 100%;
+  margin-top: 2em;
+  font-size: 14px;
+  font-weight: 30;
+  margin-bottom: 4em;
+}
+.box2 button {
+  float: none;
+  width: 100.5%;
+  border: 0.5px solid #B7B7B7;
+  padding: 1em;
+  margin-bottom: 4em;
+  color: black;
+  font-size: 14px;
+}
+.box2 button a{ text-decoration:none;
+color:black;}
+

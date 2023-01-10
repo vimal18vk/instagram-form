@@ -1,0 +1,154 @@
+<!doctype html>
+
+<head>
+<title>login.instagram
+</title>
+<meta></meta>
+<link   rel="stylesheet" href=" css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" >
+<link rel="icon "type="image/x-icon" href="images/logo.jpg" ></link>
+<script></script>
+<style></style>
+
+
+
+</head>
+
+<body>
+
+<div class="bg">
+<div class="page-center ">  
+
+<div class="box">
+<img src=" images/insta_img.png"></img>
+<div class="input">
+
+<input class="iqoo" type=" name" placeholder="phone number,username, email,"></input>
+<br>
+<input class=" mi" type=" name" placeholder=" password"></input>
+<br>
+<button class="click"> Log in </button>
+
+
+<div class="p" >
+<h5>OR</h5>
+<hr class="hr">
+<p>
+<i class="fa fa-facebook-f"></i>
+Log In With Facebook
+</p>
+</div> 
+
+
+</div>
+<p class ="p1"> <a href="forgot password.html">Forgotpassword?</a> </p>
+</diV>
+
+
+
+
+</diV>
+
+<!---bgends---->
+<div class="page-center">
+<div class="sgin_up ">
+<p> Don't have an account?<a href="#"><span>Sgin up</span></a></p>
+
+
+</div>
+
+
+</div>
+<!----sgin_upends---->
+
+
+
+<div class="page-center">
+<div  class=" footer"> 
+<h5>Get the app</h5>
+</div>
+
+<img src=" images/img2.png"></img>
+<img src=" images/img3.png"></img>
+</div>
+<div class=" ends">
+<p>
+Meta
+About
+Blog
+Jobs
+Help
+API
+Privacy
+Terms
+Top Accounts
+Hashtags
+Locations
+Instagram Lite
+Contact Uploading & Non-Users
+English
+</p>
+<p class="bottom">
+English 
+© 2022 Instagram from Meta
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body
+
+
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

@@ -1,0 +1,139 @@
+body {margin:0 auto;width:100%;}
+
+.bg {
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+.box {
+  float: left;
+  width: 100%;
+  background-color: white;
+  margin-top: 1em;
+  border: solid 1px #DBDBDB;
+}
+.box img {
+  margin-top: 3em;
+  margin-bottom: 2em;
+}
+
+.page-center {
+  float: none;
+  width: 100%;
+  margin: 0 auto;
+    margin-top: 0px;
+  max-width: 26%;
+  
+}
+
+.input {
+  float: left;
+  width: 109%;
+  text-align: center;
+}
+
+.iqoo {
+  float: left;
+  width: 73%;
+  background-color: #FAFAFA;
+  border: solid 1px #DBDBDB;
+  border-radius: 4px;
+  margin-top: 1em;
+  padding: 9px;
+  font-style: revert-layer;
+  margin-bottom: 2em;
+  margin-left: 2em;
+}
+.mi {
+  float: left;
+  width: 73%;
+   background-color: #FAFAFA;
+  border: solid 1px #DBDBDB;
+  border-radius: 4px;
+  padding: 9px;
+  font-style: revert-layer;
+  margin-bottom: 2em;
+  margin-left: 2em;
+  margin-top: -1em;
+}
+.click {
+  float: left;
+  width: 79%;
+ background-color: #FAFAFA;
+  border: solid 1px #DBDBDB;
+  border-radius: 4px;
+  margin-top: 0em;
+  padding: 9px;
+  font-style: revert-layer;
+  margin-bottom: 2em;
+  margin-left: 2em;
+  background-color: lightblue;
+  color: white;
+}
+	
+.p p {
+  color: #385185;
+}
+.p1 {
+  text-align: center;
+  color: #385185;
+  font-size: 12px;
+}
+
+.p1 a {
+  text-decoration: none;
+  color:black;
+   margin-left:-2em;
+}
+
+
+.hr {
+  width: 76%;
+  color: #DBDBDB;
+  margin-bottom: 3em;
+  margin-left: 2em;
+  margin-top: -5em;
+}
+
+.input h5 {
+  width: 13%;
+  margin-left: 12.8em;
+  padding: 0em;
+  background-color: white;
+  position: relative;
+  top: -0.6em;
+  margin-top: 11em;
+  color: #B7B7B7;
+  font-size: 12px;
+}
+
+.sgin_up{
+	
+  float: left;
+  width: 100%;
+  background-color: white;
+  margin-top: 1em;
+  border: solid 1px #DBDBDB;
+
+}
+.sign_up a{text-decoration:none;color:black;}
+
+
+
+.footer h5{margin-top:2em
+}
+
+
+.ends {
+	cursor:pointer;
+  float: left;
+  width: 100%;
+  word-spacing: 0.5em;
+  font-size: 14px;
+  color: #C3C3C3;
+  margin-top: 4em;
+  margin-bottom:2em;
+}
+.bottom { text-align:center;}
+
+
